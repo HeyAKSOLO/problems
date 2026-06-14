@@ -4,7 +4,7 @@ using namespace std;
 // Contains Duplicates
 bool has_duples(vector<int> nums){
     unordered_set<int> seen;
-    for(auto i : nums){
+    for(int i : nums){ // use int for large datasets
         if(seen.count(i)){
             return true;
         }
