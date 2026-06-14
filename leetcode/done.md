@@ -6,6 +6,8 @@
 
 125. Valid palindrome                                                                         -> 2 pointer
 
+217. Contains Duplicates                                                                       -> hash set
+
 268. Missing Number                                                                       -> n_sum formula
 
 344. Reverse String                                                                           -> 2 pointer

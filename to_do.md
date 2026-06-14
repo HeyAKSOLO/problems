@@ -1,4 +1,5 @@
 # heyk
+- 26 , 27
 - majority element 
 - shift 0s to end 
 
