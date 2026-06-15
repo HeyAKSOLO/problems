@@ -1,11 +1,10 @@
 # heyk
 - 26 , 27
-- majority element 
 - shift 0s to end 
 
 # akro
-- shift 0s to end 
 - majority element 
+- binary search
 
 
 
