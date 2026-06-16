@@ -2,7 +2,7 @@
 count digits
 reverse number ❌
 check palindrome
-GCD
+GCD ❌
 armstrong number ❌
 print all divisors
 prime number 
