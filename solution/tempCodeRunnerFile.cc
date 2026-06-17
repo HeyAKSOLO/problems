@@ -1,1 +1,0 @@
- return index of compleme
