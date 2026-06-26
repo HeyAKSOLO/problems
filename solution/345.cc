@@ -20,3 +20,5 @@ public:
         return s;
     }
 };
+
+// 2 pointer
