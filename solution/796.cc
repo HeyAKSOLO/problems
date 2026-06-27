@@ -25,3 +25,11 @@ public:
     }
 };
 
+// optimized solution using concatenation 
+class Solution2 {
+public:
+    bool rotateString(string s, string goal) {
+        if(s.length() != goal.length()){ return false; }
+        return (s+s).find(goal) != string::npos;
+        } // s+s gives all possible combinations of rotation
+};
