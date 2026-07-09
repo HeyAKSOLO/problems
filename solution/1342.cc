@@ -1,4 +1,4 @@
-#include <bits\stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 // Number of steps to reduce a number to 0

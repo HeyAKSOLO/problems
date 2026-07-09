@@ -1,4 +1,4 @@
-#include <bits\stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 // 3936 - Minimum swaps needed to move zeroes to end

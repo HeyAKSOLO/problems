@@ -1,4 +1,4 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 // Number of Sub-arrays of Size K and Average >= Threshold

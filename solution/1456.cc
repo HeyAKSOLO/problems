@@ -1,6 +1,4 @@
-#include <iostream>
-#include <unordered_set>
-#include <string>
+#include <bits/stdc++.h>
 using namespace std;
 
 // maximum-number-of-vowels-in-a-substring-of-given-length

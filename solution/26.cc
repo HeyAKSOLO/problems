@@ -1,5 +1,4 @@
-#include <iostream>
-#include <vector>
+#include <bits/stdc++.h>
 
 // Remove Duplicates from Sorted Array
 using namespace std;

@@ -1,4 +1,4 @@
-#include <bits\stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 // Running sum of 1d array
