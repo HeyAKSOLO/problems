@@ -23,3 +23,28 @@ public:
         return ans;
     }
 };
+
+// better
+class Solution {
+public:
+    vector<vector<int>> subsets(vector<int>& nums) {
+        vector<vector<int>> ans;
+
+        int total = 1 << nums.size();
+
+        for(int mask = 0; mask < total; mask++){
+
+            vector<int> subset;
+
+            for(int j = 0; j < nums.size(); j++){
+
+                if(mask & (1 << j))
+                    subset.push_back(nums[j]);
+            }
+
+            ans.push_back(subset);
+        }
+
+        return ans;
+    }
+};
